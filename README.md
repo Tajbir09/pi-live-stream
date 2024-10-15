@@ -61,5 +61,5 @@ Follow these steps to set up the live video streaming feature on your Raspberry 
 Clone this repository to your Raspberry Pi:
 
 ```bash
-git clone https://github.com/yourusername/pi-live-stream.git
+git clone https://github.com/Tajbir09/pi-live-stream
 cd pi-live-stream
