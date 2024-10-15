@@ -1,6 +1,6 @@
 # Raspberry Pi Live Video Streaming
 
-![Raspberry Pi](https://github.com/Tajbir09/pi-live-stream/blob/main/assets/pi_camera.jpg)
+![Raspberry Pi](https://github.com/Tajbir09/pi-live-stream)
 
 *Stream live video from your Raspberry Pi to your mobile device over the same Wi-Fi hotspot.*
 
